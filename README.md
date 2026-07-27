@@ -1,4 +1,4 @@
-<img width="1139" height="675" alt="image" src="https://github.com/user-attachments/assets/ad96bc63-811e-4d36-b47b-b3b7d549c6b8" />Macro-Market Trend Analysis: Silver vs. Traditional Assets
+Macro-Market Trend Analysis: Silver vs. Traditional Assets
 
 📌 Project Overview
 
